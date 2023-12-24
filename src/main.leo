@@ -1,4 +1,3 @@
-// The 'templateankara' program.
 program ankaraAleoToken8.aleo {
     
     mapping account:address => u64;

@@ -1,4 +1,4 @@
-program templateankara.aleo;
+program ankaraAleoToken8.aleo;
 
 
 
