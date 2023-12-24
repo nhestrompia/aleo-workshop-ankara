@@ -1,4 +1,5 @@
-program ankaraAleoToken8.aleo {
+// The 'ankaratokenworkshop' program.
+program ankaraaleotoken8.aleo {
     
     mapping account:address => u64;
 
